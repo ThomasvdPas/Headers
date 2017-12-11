@@ -1,0 +1,8 @@
+C:\Users\trvan\AppData\Local\Temp\ccNJUAGS.o:main.cpp:(.text+0x7a): undefined reference to `Time::Time(int, int, int)'
+C:\Users\trvan\AppData\Local\Temp\ccNJUAGS.o:main.cpp:(.text+0x86): undefined reference to `Time::print() const'
+C:\Users\trvan\AppData\Local\Temp\ccNJUAGS.o:main.cpp:(.text+0xa3): undefined reference to `Time::Time(int, int, int)'
+C:\Users\trvan\AppData\Local\Temp\ccNJUAGS.o:main.cpp:(.text+0xaf): undefined reference to `Time::print() const'
+C:\Users\trvan\AppData\Local\Temp\ccNJUAGS.o:main.cpp:(.text+0xcc): undefined reference to `Time::setTime(int, int, int)'
+C:\Users\trvan\AppData\Local\Temp\ccNJUAGS.o:main.cpp:(.text+0xd8): undefined reference to `Time::print() const'
+C:\Users\trvan\AppData\Local\Temp\ccNJUAGS.o:main.cpp:(.text+0xe8): undefined reference to `Time::equals(Time const&)'
+collect2.exe: error: ld returned 1 exit status
