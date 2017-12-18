@@ -1,11 +1,11 @@
 #include "test.h"
 
-int test::print(void){
+int Test::print(void){
         printf("%s\n","hallo world1");
         return 0;
 }
 
-int test::echo(void) {
+int Test::echo(void) {
         printf("%s\n","hallo world2");
         // pc.printf("Hello!\n");
         // pc.printf("Echoes back to the screen anything you type\n");
