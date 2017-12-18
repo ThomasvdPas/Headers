@@ -30,8 +30,8 @@ int main() {
         // wait(1);
         // }
 
-       Test t;
-       t.print();
+       // Test t;
+       // t.print();
 
 
         cout << add(3,4) << '\n';

@@ -1,8 +1,0 @@
-C:\Users\trvan\Documents\TU_Delft\Dreamteam\Software\Tests\Nucleo\main.cpp: In function 'int main()':
-C:\Users\trvan\Documents\TU_Delft\Dreamteam\Software\Tests\Nucleo\main.cpp:34:16: error: 'int Test::print()' is private within this context
-        t.print();
-                ^
-In file included from C:\Users\trvan\Documents\TU_Delft\Dreamteam\Software\Tests\Nucleo\main.cpp:2:0:
-C:\Users\trvan\Documents\TU_Delft\Dreamteam\Software\Tests\Nucleo\test.h:10:5: note: declared private here
- int print(void);
-     ^~~~~

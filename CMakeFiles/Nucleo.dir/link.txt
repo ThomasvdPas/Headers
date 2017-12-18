@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\Nucleo.dir/objects.a
-C:\TDM-GCC-64\bin\ar.exe cr CMakeFiles\Nucleo.dir/objects.a @CMakeFiles\Nucleo.dir\objects1.rsp @CMakeFiles\Nucleo.dir\objects2.rsp @CMakeFiles\Nucleo.dir\objects3.rsp @CMakeFiles\Nucleo.dir\objects4.rsp
-C:\TDM-GCC-64\bin\g++.exe    -Wl,--whole-archive CMakeFiles\Nucleo.dir/objects.a -Wl,--no-whole-archive  -o Nucleo.exe -Wl,--out-implib,libNucleo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Nucleo.dir\linklibs.rsp
